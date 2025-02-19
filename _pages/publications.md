@@ -18,19 +18,19 @@ author_profile: true
 6. Jing Liang, Yahang Lou, Mingyuan Yu,  Ying Bi & Kunjie Yu. A survey of surrogate-assisted evolutionary algorithms for expensive optimization. Journal of Membrane Computing, 1-20.[[http](https://link.springer.com/article/10.1007/s41965-024-00165-w)]
 
 ## Journal Papers
-1.Caiyun Wen, Miao Lu, Ying Bi, Lang Xia, Jing Sun, Yun Shi, Yanbing Wei, Wenbin Wu：
+1. Caiyun Wen, Miao Lu, Ying Bi, Lang Xia, Jing Sun, Yun Shi, Yanbing Wei, Wenbin Wu：
 Customized crop feature construction using genetic programming for early-and in-season crop mapping.Computers and Electronics in Agriculture，2025/4/1.[[http](https://www.sciencedirect.com/science/article/pii/S0168169925000559)]
 
-2.Rui Qi, Ya-Hui Jia, Wei-Neng Chen, Ying Bi, Yi Mei:An evolutionary optimization-learning hybrid algorithm for energy resource management.Swarm and Evolutionary Computation，2025/2/1.[[http](https://www.sciencedirect.com/science/article/pii/S2210650224003699)]
+2. Rui Qi, Ya-Hui Jia, Wei-Neng Chen, Ying Bi, Yi Mei:An evolutionary optimization-learning hybrid algorithm for energy resource management.Swarm and Evolutionary Computation，2025/2/1.[[http](https://www.sciencedirect.com/science/article/pii/S2210650224003699)]
 
-3.Jing Liang, Junting Yang, Caitong Yue, Ying Bi, Kunjie Yu, Boyang Qu, Yuyang Zhang, Mengmeng Li:A Joint-Encoding Evolutionary Algorithm for Multimodal Multiobjective Feature Selection in Classification.IEEE Transactions on Evolutionary Computation，2025/1/16.[[http](https://ieeexplore.ieee.org/abstract/document/10843352/)]
+3. Jing Liang, Junting Yang, Caitong Yue, Ying Bi, Kunjie Yu, Boyang Qu, Yuyang Zhang, Mengmeng Li:A Joint-Encoding Evolutionary Algorithm for Multimodal Multiobjective Feature Selection in Classification.IEEE Transactions on Evolutionary Computation，2025/1/16.[[http](https://ieeexplore.ieee.org/abstract/document/10843352/)]
 
-4.Jing Liang, Zhuo Hu, Ying Bi, Han Cheng, Wei-Feng Guo:Multimodal multiobjective optimization with structural network control principles to optimize personalized drug targets for drug discovery of individual patients.Briefings in Bioinformatics.[[http](2025/1.https://academic.oup.com/bib/article-pdf/doi/10.1093/bib/bbaf007/61525230/bbaf007.pdf
+4. Jing Liang, Zhuo Hu, Ying Bi, Han Cheng, Wei-Feng Guo:Multimodal multiobjective optimization with structural network control principles to optimize personalized drug targets for drug discovery of individual patients.Briefings in Bioinformatics.[[http](2025/1.https://academic.oup.com/bib/article-pdf/doi/10.1093/bib/bbaf007/61525230/bbaf007.pdf
 )]
 
-5.Dylon Zeng, Ivy Liu, Ying Bi, Ross Ve nnell, Dana Briscoe, Bing Xue, Mengjie Zhang: A new multi-object tracking pipeline based on computer vision techniques for mussel farms.     Journal of the Royal Society of New Zealand,2025/1/1 .[[http](https://www.tandfonline.com/doi/abs/10.1080/03036758.2023.2240466)]
+5. Dylon Zeng, Ivy Liu, Ying Bi, Ross Ve nnell, Dana Briscoe, Bing Xue, Mengjie Zhang: A new multi-object tracking pipeline based on computer vision techniques for mussel farms.     Journal of the Royal Society of New Zealand,2025/1/1 .[[http](https://www.tandfonline.com/doi/abs/10.1080/03036758.2023.2240466)]
 
-6.Wenjie Sun, Chengke Wu, Qinge Xiao, Junjie Jiang, Yuanjun Guo, Ying Bi, Xingyu Wu, Zhile Yang：CauseTerML: Causal Learning via Term Mining for Assessing Review Discrepancies. IEEE Transactions on Artificial Intelligence, 2024/12/9. [[http](https://ieeexplore.ieee.org/abstract/document/10782990/)] 
+6. Wenjie Sun, Chengke Wu, Qinge Xiao, Junjie Jiang, Yuanjun Guo, Ying Bi, Xingyu Wu, Zhile Yang：CauseTerML: Causal Learning via Term Mining for Assessing Review Discrepancies. IEEE Transactions on Artificial Intelligence, 2024/12/9. [[http](https://ieeexplore.ieee.org/abstract/document/10782990/)] 
 
 7. QU Ain, H Al-Sahaf, JM Alonso-Moral, S Bandaru, M Bello,Ying Bi .2024 Index IEEE Computational Intelligence Magazine Vol. 19 ,IEEE Computational Intelligence Magazine 19 (4)
 
