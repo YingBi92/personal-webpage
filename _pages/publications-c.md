@@ -5,9 +5,9 @@ permalink: /publications-c/
 author_profile: true
 ---
 *indicating the corresponding author
-1.  Ying Bi, Bing Xue,Jane Symonds, Lauren M. Fletcher, Mengjie Zhang. Automatic Quantification of King Salmon Farm Net Occlusion Via Biofouling Detection[C]//2024 39th International Conference on Image and Vision Computing New Zealand (IVCNZ). IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794201)]
+1. Qinglan,Ying Bi, Bing Xue,Jane Symonds, Lauren M. Fletcher, Mengjie Zhang. Automatic Quantification of King Salmon Farm Net Occlusion Via Biofouling Detection[C]//2024 39th International Conference on Image and Vision Computing New Zealand (IVCNZ). IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794201)]
 
-2.  Dylon Zeng, Ying Bi, Mengjie Zhang. Genetic Programming-Based Multi-Object Matching for Mussel Floats in Mussel Farm Images[C]//2024 39th International Conference on Image and Vision Computing New Zealand (IVCNZ). IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794448)]
+2. Dylon Zeng, Ying Bi, Mengjie Zhang. Genetic Programming-Based Multi-Object Matching for Mussel Floats in Mussel Farm Images[C]//2024 39th International Conference on Image and Vision Computing New Zealand (IVCNZ). IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794448)]
   
 3. Wei-Feng Guo,Yang Li, Chuanqiang Wang, Kunjie Yu, Caitong Yue, Ying Bi. Evolutionary Multitasking Optimization Based Multi-Objective Network Control Principles for Identifying Personalized Drug Targets with Cancer. In 2024 International Conference on New Trends in Computational Intelligence (NTCI) (pp. 135-139). IEEE.[[http](https://ieeexplore.ieee.org/document/10776292)]
    
