@@ -10,6 +10,13 @@ author_profile: true
 ## 2024
 ### Graduate Students
 Yaxin Chang (PhD): Evolutionary Machine Learning
+Rongqiao Zhang (Master): Deep Learning-Based Defect Detection in Solar Cells
+Mengyu Wang (Master): Genetic Programming for Image Classification
+Yinghan Li（Master）：Genetic Programming for Hyperspectral Image Classification
+Jinze Chen (Master):  Evolutionary Algorithms for Feature Selection
+Qinzhen Zhao (Master):Evolutionary algorithm + Large language model 
+Delong Zhao（Master）：Genetic Programming-based Multimodal Fusion for Cancer Diagnosis
+Pengfei Wang（Master）：Genetic Programming for Multi-class Classification
 
 ## 2023
 ### Graduate Students
