@@ -23,13 +23,6 @@ author_profile: true
 * Local Organising Committee Member: The 31st Australasian Joint Conference on Artificial Intelligence
 * GP Session Chair: 2023 The Genetic and Evolutionary Computation Conference (GECCO)
 * Editorial Board Member: Artificial Intelligence and Autonomous Systems (2024.12-)
-* Associate Editor: IEEE Transactions on Automation Science and Engineering- Associate Editor (2024.11-) 
-* Associate Editor: New Zealand Journal of Marine and Freshwater Research (2024.03-)
-* Associate Editor: IEEE Transactions on Evolutionary Computation (2024.01-)
-* Associate Editor: IEEE Transactions on Artificial Intelligence (2024.01-)
-* Member: Applied Soft Computing- Editorial Board Member (2024.01-)
-* Associate Editor:  Computers and Electrical Engineering (2023.12-) 
-* Associate Editor: Intelligent Marine Technology and Systems (2023.08-)
 * Review Editor Frontiers in Artificial Intelligence (2023.07-)
 * Local Organising Committee Member: 2019 IEEE Congress on Evolutionary Computation (CEC 2019)
 * Poster Session Co-Chair: 2019 IEEE Congress on Evolutionary Computation (CEC 2019)
