@@ -8,49 +8,54 @@ redirect_from:
   - /about.html
 ---
 
-Distinguished Professor, PhD Supervisor \\
-School of Electrical and Information Engineering, ([EIE]([http://www5.zzu.edu.cn/eie/])) \\
-Zhengzhou University (ZZU), Zhengzhou, China ([ZZU](https://www.zzu.edu.cn/index.htm))\\
-Computaintional Intelligence Lab at ZZU ([CILab](http://www5.zzu.edu.cn/cilab/)) \\
-You can also find my publications or codes from [[Google scholar Profile](https://scholar.google.co.nz/citations?user=WI2ykPAAAAAJ&hl=en)] [[DBLP Profile](https://dblp.org/pers/b/Bi:Ying.html)] [[Research Gate](https://www.researchgate.net/profile/Ying-Bi-2)] [[The GP Bibliography](http://gpbib.cs.ucl.ac.uk/gp-html/YingBi.html)] the GP BibliographyThe papers here are for faster diseminaon and academie research convmence purpose only, and the copyright ofthe final papers belongs tothe coresponding publishers
+Distinguished Professor, PhD Supervisor
+
+School of Electrical and Information Engineering, ([EIE]([http://www5.zzu.edu.cn/eie/])) 
+
+Zhengzhou University (ZZU), Zhengzhou, China ([ZZU](https://www.zzu.edu.cn/index.htm))
+
+Computaintional Intelligence Lab at ZZU ([CILab](http://www5.zzu.edu.cn/cilab/)) 
+
+You can also find my publications or codes from [[Google scholar Profile](https://scholar.google.co.nz/citations?user=WI2ykPAAAAAJ&hl=en)] [[DBLP Profile](https://dblp.org/pers/b/Bi:Ying.html)] [[Research Gate](https://www.researchgate.net/profile/Ying-Bi-2)] [[The GP Bibliography](http://gpbib.cs.ucl.ac.uk/gp-html/YingBi.html)] 
 
 
 NEWS
 ======
 
-
 <ul>
-<li>I am selected as an Associate Editor of IEEE Transactions on Automation Science and Engineering, 2024.
-<li>I gave one-hour talk as part of a specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition in GECCO2024.</li>
+<li>I am upgraded to IEEE Senior Member, 2025.
+<li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span>of IEEE Transactions on Automation Science and Engineering, 2024.
+<li>I gave a one-hour talk as part of a specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition in GECCO2024.</li>
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Evolutionary Computation, 2024.</li>
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Artificial Intelligence, 2024. </li>
 <li>I am selected as an <span style="color: #FF0000"><b>Editorial Board Member</b></span> of Applied Soft Computing, 2024. </li>
 </ul>
 
-Research Interests
-==================
+
+# Research Interests
 
 My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.
 
-- **Evolutionary computer vision and image processing**:
+- **Evolutionary computer vision and image processing**
   - Particularly image classification, image analysis, image segmentation, edge detection, and object detection
-- **Evolutionary computation**:
+- **Evolutionary computation**
   - Particularly Genetic Programming, particle swarm optimization, bacterial foraging optimization, surrogate - assisted evolutionary algorithms, evolutionary multi - objective optimization
-- **Evolutionary machine learning**:
+- **Evolutionary machine learning**
   - Particularly supervised learning, classification, ensemble learning, transfer learning, few - shot learning, and evolutionary deep learning
-- **Feature engineering and learning**:
+- **Feature engineering and learning**
   - Particularly feature extraction, feature construction, and feature learning
-- **Applications of evolutionary computation techniques**:
+- **Applications of evolutionary computation techniques**
   - Particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.
 
+  
 Biography
 ======
 
-
+<ul>
 Dr. Bi Ying is currently a distinguished professor at the School of Electrical and Information Engineering at Zhengzhou University. She was selected as a national high-level young talent in 2020 and a high-level talent in Henan Province Class C in 2024. She has been awarded 5+ national, provincial/ministerial grants as PI, published one monograph in English, and 70+ papers in SCI/EI journals or conferences, including IEEE Transactions on Evolutionary Computation and IEEE Transactions on Cybernetics. She has applied for 10+ patterns, and has been awarded the IEEE CIS Outstanding PhD Dissertation Award (only one in the field of computational intelligence in the world every year), the Gold Award of the 2nd National Postdoctoral Innovation and Entrepreneurship Competition, and the PGSA Research Excellence Award of Victoria University of Wellington (only one person per faculty).
 
 She has served as an associated editor or editorial board member for seven journals, including IEEE Transactions on Evolutionary Computation, IEEE Transactions on Artificial Intelligence, and Applied Soft Computing. She serves as the chair of the IEEE CIS Women in Computational Intelligence Subcommittee, and the vice chair of the IEEE CIS Task Force on Evolutionary Computer Vision and Image Processing. She was the workshop chair of IEEE CEC 2024, student affairs chair of GECCO 2023, GECCO 2024, and student workshop chair of GECCO 2024. She has been organizing workshops/tutorials/special sessions in conferences related to machine learning, data mining, and evolutionary computation, such as workshops in IEEE ICDM 2021-2024, special sessions/workshops in IEEE CEC 2023-2024, symposiums in IEEE SSCI 2023, etc. She has served as a reviewer for 20+ important journals and a PC member of 20+ international conferences. She has been involved in organizing conferences or events, including IEEE CEC 2019, AJCAI 2018, ECLOE 2023, and IEEE CIS Summer School.
-
+</ul>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
