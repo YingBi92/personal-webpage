@@ -24,7 +24,7 @@ You can also find my publications or codes from [[Google scholar Profile](https:
 
 <ul>
 <li>I am upgraded to IEEE Senior Member, 2025.
-<li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span>of IEEE Transactions on Automation Science and Engineering, 2024.
+<li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Automation Science and Engineering, 2024.
 <li>I gave a one-hour talk as part of a specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition in GECCO2024.</li>
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Evolutionary Computation, 2024.</li>
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Artificial Intelligence, 2024. </li>
