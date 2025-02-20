@@ -34,6 +34,7 @@ NEWS
 Research Interests
 ======
 
+
 <ul>
 My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.
 <li><b> evolutionary computer vision and image processing</b>, particularly image classification, image analysis, image segmentation, edge detection, and object detection</li>
