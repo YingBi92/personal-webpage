@@ -28,17 +28,20 @@ NEWS
 </ul>
 
 Research Interests
-======
+==================
 
-
-<ul>
 My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.
-<li><b> evolutionary computer vision and image processing</b>, particularly image classification, image analysis, image segmentation, edge detection, and object detection</li>
-<li><b> evolutionary computation</b>, particularly Genetic Programming, particle swarm optimization, bacterial foraging optimization, surrogate-assisted evolutionary algorithms, evolutionary multi-objective optimization</li>
-<li><b> evolutionary machine learning</b>, particularly supervised learning, classification, ensemble learning, transfer learning, few-shot learning, and evolutionary deep learning </li>
-<li><b> feature engineering and learning</b>, particularly feature extraction, feature construction, and feature learning</li>
-<li><b> applications of evolutionary computation techniques</b>, particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.</li>
-</ul>
+
+- **Evolutionary computer vision and image processing**:
+  - Particularly image classification, image analysis, image segmentation, edge detection, and object detection
+- **Evolutionary computation**:
+  - Particularly Genetic Programming, particle swarm optimization, bacterial foraging optimization, surrogate - assisted evolutionary algorithms, evolutionary multi - objective optimization
+- **Evolutionary machine learning**:
+  - Particularly supervised learning, classification, ensemble learning, transfer learning, few - shot learning, and evolutionary deep learning
+- **Feature engineering and learning**:
+  - Particularly feature extraction, feature construction, and feature learning
+- **Applications of evolutionary computation techniques**:
+  - Particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.
 
 Biography
 ======
