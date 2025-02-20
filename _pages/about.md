@@ -22,7 +22,6 @@ You can also find my publications or codes from [[Google scholar Profile](https:
 NEWS
 ======
 
-
 <ul>
 <li>I am selected as an Associate Editor of IEEE Transactions on Automation Science and Engineering, 2024.
 <li>I gave one-hour talk as part of a specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition in GECCO2024.</li>
@@ -31,9 +30,9 @@ NEWS
 <li>I am selected as an <span style="color: #FF0000"><b>Editorial Board Member</b></span> of Applied Soft Computing, 2024. </li>
 </ul>
 
+
 Research Interests
 ======
-
 
 <ul>
 My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.
@@ -44,9 +43,9 @@ My main research lies in Artificial Intelligence, Machine Learning, Computer Vis
 <li><b> applications of evolutionary computation techniques</b>, particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.</li>
 </ul>
 
+
 Biography
 ======
-
 
 Dr. Bi Ying is currently a distinguished professor at the School of Electrical and Information Engineering at Zhengzhou University. She was selected as a national high-level young talent in 2020 and a high-level talent in Henan Province Class C in 2024. She has been awarded 5+ national, provincial/ministerial grants as PI, published one monograph in English, and 70+ papers in SCI/EI journals or conferences, including IEEE Transactions on Evolutionary Computation and IEEE Transactions on Cybernetics. She has applied for 10+ patterns, and has been awarded the IEEE CIS Outstanding PhD Dissertation Award (only one in the field of computational intelligence in the world every year), the Gold Award of the 2nd National Postdoctoral Innovation and Entrepreneurship Competition, and the PGSA Research Excellence Award of Victoria University of Wellington (only one person per faculty).
 
