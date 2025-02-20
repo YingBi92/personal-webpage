@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 Distinguished Professor, PhD Supervisor \\
+
 School of Electrical and Information Engineering, ([EIE]([http://www5.zzu.edu.cn/eie/])) \\
+
 Zhengzhou University (ZZU), Zhengzhou, China ([ZZU](https://www.zzu.edu.cn/index.htm))\\
+
 Computaintional Intelligence Lab at ZZU ([CILab](http://www5.zzu.edu.cn/cilab/)) \\
+
 You can also find my publications or codes from [[Google scholar Profile](https://scholar.google.co.nz/citations?user=WI2ykPAAAAAJ&hl=en)] [[DBLP Profile](https://dblp.org/pers/b/Bi:Ying.html)] [[Research Gate](https://www.researchgate.net/profile/Ying-Bi-2)] [[The GP Bibliography](http://gpbib.cs.ucl.ac.uk/gp-html/YingBi.html)] the GP BibliographyThe papers here are for faster diseminaon and academie research convmence purpose only, and the copyright ofthe final papers belongs tothe coresponding publishers
 
 
@@ -29,7 +33,6 @@ NEWS
 
 Research Interests
 ======
-
 
 <ul>
 My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.
