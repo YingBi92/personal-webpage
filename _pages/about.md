@@ -9,22 +9,20 @@ redirect_from:
 ---
 
 Distinguished Professor, PhD Supervisor 
-
 School of Electrical and Information Engineering, ([EIE]([http://www5.zzu.edu.cn/eie/])) 
-
 Zhengzhou University (ZZU), Zhengzhou, China ([ZZU](https://www.zzu.edu.cn/index.htm))
-
 Computaintional Intelligence Lab at ZZU ([CILab](http://www5.zzu.edu.cn/cilab/)) 
 
-You can also find my publications or codes from [[Google scholar Profile](https://scholar.google.co.nz/citations?user=WI2ykPAAAAAJ&hl=en)] [[DBLP Profile](https://dblp.org/pers/b/Bi:Ying.html)] [[Research Gate](https://www.researchgate.net/profile/Ying-Bi-2)] [[The GP Bibliography](http://gpbib.cs.ucl.ac.uk/gp-html/YingBi.html)] the GP BibliographyThe papers here are for faster diseminaon and academie research convmence purpose only, and the copyright ofthe final papers belongs tothe coresponding publishers
+You can also find my publications or codes from [[Google scholar Profile](https://scholar.google.co.nz/citations?user=WI2ykPAAAAAJ&hl=en)] [[DBLP Profile](https://dblp.org/pers/b/Bi:Ying.html)] [[Research Gate](https://www.researchgate.net/profile/Ying-Bi-2)] [[The GP Bibliography](http://gpbib.cs.ucl.ac.uk/gp-html/YingBi.html)] 
 
 
 NEWS
 ======
 
 <ul>
-<li>I am selected as an Associate Editor of IEEE Transactions on Automation Science and Engineering, 2024.
-<li>I gave one-hour talk as part of a specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition in GECCO2024.</li>
+<li>I am upgraded to IEEE Senior Member, 2025.
+<li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span>of IEEE Transactions on Automation Science and Engineering, 2024.
+<li>I gave a one-hour talk as part of a specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition in GECCO2024.</li>
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Evolutionary Computation, 2024.</li>
 <li>I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Artificial Intelligence, 2024. </li>
 <li>I am selected as an <span style="color: #FF0000"><b>Editorial Board Member</b></span> of Applied Soft Computing, 2024. </li>
@@ -43,9 +41,9 @@ My main research lies in Artificial Intelligence, Machine Learning, Computer Vis
 <li><b> applications of evolutionary computation techniques</b>, particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.</li>
 </ul>
 
-
 Biography
 ======
+
 
 Dr. Bi Ying is currently a distinguished professor at the School of Electrical and Information Engineering at Zhengzhou University. She was selected as a national high-level young talent in 2020 and a high-level talent in Henan Province Class C in 2024. She has been awarded 5+ national, provincial/ministerial grants as PI, published one monograph in English, and 70+ papers in SCI/EI journals or conferences, including IEEE Transactions on Evolutionary Computation and IEEE Transactions on Cybernetics. She has applied for 10+ patterns, and has been awarded the IEEE CIS Outstanding PhD Dissertation Award (only one in the field of computational intelligence in the world every year), the Gold Award of the 2nd National Postdoctoral Innovation and Entrepreneurship Competition, and the PGSA Research Excellence Award of Victoria University of Wellington (only one person per faculty).
 
