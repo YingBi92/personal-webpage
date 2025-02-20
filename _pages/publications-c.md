@@ -8,19 +8,19 @@ author_profile: true
 
 1. Yue, C., Liu, L., Liang, J., Li, G., **Ying Bi**, & Yu, M. (2024, June). Multimodal Multi-Objective Flexible Job Shop Scheduling: A Preliminary Study. In 2024*IEEE Congress on Evolutionary Computation (CEC)* (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/abstract/document/10612067)]
 
-2. Chen J, Jia Y H, Bi Y, et al. Generate a Single Heuristic for Multiple Dynamic Flexible Job Shop Scheduling Tasks by Genetic Programming[C]//2024 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2024: 1-8.[[http](https://ieeexplore.ieee.org/abstract/document/10611762)]
+2. Chen J, Jia Y H, Bi Y, et al. Generate a Single Heuristic for Multiple Dynamic Flexible Job Shop Scheduling Tasks by Genetic Programming[C].2024 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2024: 1-8.[[http](https://ieeexplore.ieee.org/abstract/document/10611762)]
 
 3. Jing Liang,Zexuan Yang,Tuo Zhang,**Ying Bi**. (2024, June). A Two-Stage Approach Using Genetic Algorithm and Genetic Programming for Remote Sensing Crop Classification. In 2024 *IEEE Congress on Evolutionary Computation (CEC)*(pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/document/10612210)]
 
-4. Qinglan,**Ying Bi**,Bing Xue,Jane Symonds,Lauren M. Fletcher,Mengjie Zhang. Automatic Quantification of King Salmon Farm Net Occlusion Via Biofouling Detection[C]//2024 39th *International Conference on Image and Vision Computing New Zealand (IVCNZ)*. IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794201)]
+4. Qinglan,**Ying Bi**,Bing Xue,Jane Symonds,Lauren M. Fletcher,Mengjie Zhang. Automatic Quantification of King Salmon Farm Net Occlusion Via Biofouling Detection[C]. 2024 39th *International Conference on Image and Vision Computing New Zealand (IVCNZ)*. IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794201)]
 
-5. Dylon Zeng,**Ying Bi**,Mengjie Zhang. Genetic Programming-Based Multi-Object Matching for Mussel Floats in Mussel Farm Images[C]//2024 39th *International Conference on Image and Vision Computing New Zealand (IVCNZ)*. IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794448)]
+5. Dylon Zeng,**Ying Bi**,Mengjie Zhang. Genetic Programming-Based Multi-Object Matching for Mussel Floats in Mussel Farm Images[C] 2024 39th *International Conference on Image and Vision Computing New Zealand (IVCNZ)*. IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794448)]
   
 6. Wei-Feng Guo,Yang Li,Chuanqiang Wang,Kunjie Yu,Caitong Yue,**Ying Bi**. Evolutionary Multitasking Optimization Based Multi-Objective Network Control Principles for Identifying Personalized Drug Targets with Cancer. In 2024 *International Conference on New Trends in Computational Intelligence (NTCI)*(pp. 135-139). IEEE.[[http](https://ieeexplore.ieee.org/document/10776292)]
    
-7. Tuo Zhang, **Ying Bi**, Jing Liang , Mengjie Zhang . Decomposition-based Multi-objective Genetic Programming for Feature Learning in Image Classification[C]//Proceedings of the *Genetic and Evolutionary Computation Conference Companion*. 2024: 555-558.[[http](https://dl.acm.org/doi/10.1145/3638530.3654306)]
+7. Tuo Zhang, **Ying Bi**, Jing Liang ,Mengjie Zhang . Decomposition-based Multi-objective Genetic Programming for Feature Learning in Image Classification[C].Proceedings of the *Genetic and Evolutionary Computation Conference Companion*. 2024: 555-558.[[http](https://dl.acm.org/doi/10.1145/3638530.3654306)]
    
-8. **Ying Bi** ,Mengjie Zhang , Cagnoni Stefano. Evolutionary Computation and Evolutionary Deep Learning for Image Analysis, Signal Processing and Pattern Recognition[C]//Proceedings of the *Genetic and Evolutionary Computation Conference Companion*. 2024: 1231-1260.[[http](https://dl.acm.org/doi/10.1145/3638530.3648410)]
+8. **Ying Bi** ,Mengjie Zhang ,Cagnoni Stefano. Evolutionary Computation and Evolutionary Deep Learning for Image Analysis, Signal Processing and Pattern Recognition[C].Proceedings of the *Genetic and Evolutionary Computation Conference Companion*. 2024: 1231-1260.[[http](https://dl.acm.org/doi/10.1145/3638530.3648410)]
 
 9. Yi Liu, **Ying Bi**, Yu Cui, Chengyuan Zhu, Wen Cheng, Mingkai Sheng, Yiding Zhang, Adapting explainable Decision Sets to Continuous-based Real-World Problems, 2024 7th *International Symposium on Autonomous Systems (ISAS)*, 2024
 
