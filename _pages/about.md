@@ -19,8 +19,8 @@ Computaintional Intelligence Lab at ZZU ([CILab](http://www5.zzu.edu.cn/cilab/))
 You can also find my publications or codes from [[Google scholar Profile](https://scholar.google.co.nz/citations?user=WI2ykPAAAAAJ&hl=en)] [[DBLP Profile](https://dblp.org/pers/b/Bi:Ying.html)] [[Research Gate](https://www.researchgate.net/profile/Ying-Bi-2)] [[The GP Bibliography](http://gpbib.cs.ucl.ac.uk/gp-html/YingBi.html)] 
 
 
-NEWS
-======
+## NEWS
+
 
 <ul>
 <li>I am upgraded to IEEE Senior Member, 2025.
@@ -32,24 +32,21 @@ NEWS
 </ul>
 
 
-# Research Interests
+## Research Interests
 
+
+<ul>
 My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.
+<li><b> evolutionary computer vision and image processing</b>, particularly image classification, image analysis, image segmentation, edge detection, and object detection</li>
+<li><b> evolutionary computation</b>, particularly Genetic Programming, particle swarm optimization, bacterial foraging optimization, surrogate-assisted evolutionary algorithms, evolutionary multi-objective optimization</li>
+<li><b> evolutionary machine learning</b>, particularly supervised learning, classification, ensemble learning, transfer learning, few-shot learning, and evolutionary deep learning </li>
+<li><b> feature engineering and learning</b>, particularly feature extraction, feature construction, and feature learning</li>
+<li><b> applications of evolutionary computation techniques</b>, particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.</li>
+</ul>
 
-- **Evolutionary computer vision and image processing**
-  - Particularly image classification, image analysis, image segmentation, edge detection, and object detection
-- **Evolutionary computation**
-  - Particularly Genetic Programming, particle swarm optimization, bacterial foraging optimization, surrogate - assisted evolutionary algorithms, evolutionary multi - objective optimization
-- **Evolutionary machine learning**
-  - Particularly supervised learning, classification, ensemble learning, transfer learning, few - shot learning, and evolutionary deep learning
-- **Feature engineering and learning**
-  - Particularly feature extraction, feature construction, and feature learning
-- **Applications of evolutionary computation techniques**
-  - Particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.
 
-  
-Biography
-======
+## Biography
+
 
 <ul>
 Dr. Bi Ying is currently a distinguished professor at the School of Electrical and Information Engineering at Zhengzhou University. She was selected as a national high-level young talent in 2020 and a high-level talent in Henan Province Class C in 2024. She has been awarded 5+ national, provincial/ministerial grants as PI, published one monograph in English, and 70+ papers in SCI/EI journals or conferences, including IEEE Transactions on Evolutionary Computation and IEEE Transactions on Cybernetics. She has applied for 10+ patterns, and has been awarded the IEEE CIS Outstanding PhD Dissertation Award (only one in the field of computational intelligence in the world every year), the Gold Award of the 2nd National Postdoctoral Innovation and Entrepreneurship Competition, and the PGSA Research Excellence Award of Victoria University of Wellington (only one person per faculty).
