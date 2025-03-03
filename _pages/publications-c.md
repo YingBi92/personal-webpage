@@ -6,9 +6,9 @@ author_profile: true
 ---
 *indicating the corresponding author
 
-1. Yue, C., Liu, L., Liang, J., Li, G., **Ying Bi**, & Yu, M. (2024, June). Multimodal Multi-Objective Flexible Job Shop Scheduling: A Preliminary Study. In 2024 *IEEE Congress on Evolutionary Computation (CEC)* (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/abstract/document/10612067)]
+1. Caitong Yue, Liming Liu, Jing Liang, Gongping Li,**Ying Bi**, Mingyuan Yu . (2024, June). Multimodal Multi-Objective Flexible Job Shop Scheduling: A Preliminary Study. In 2024 *IEEE Congress on Evolutionary Computation (CEC)* (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/abstract/document/10612067)]
 
-2. Chen J, Jia Y H, Bi Y, et al. Generate a Single Heuristic for Multiple Dynamic Flexible Job Shop Scheduling Tasks by Genetic Programming[C].2024 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2024: 1-8.[[http](https://ieeexplore.ieee.org/abstract/document/10611762)]
+2. iayin Chen, Ya-Hui Jia, **Ying Bi**, Wei-neng Chen. Generate a Single Heuristic for Multiple Dynamic Flexible Job Shop Scheduling Tasks by Genetic Programming[C].2024 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2024: 1-8.[[http](https://ieeexplore.ieee.org/abstract/document/10611762)]
 
 3. Jing Liang,Zexuan Yang,Tuo Zhang,**Ying Bi**. (2024, June). A Two-Stage Approach Using Genetic Algorithm and Genetic Programming for Remote Sensing Crop Classification. In 2024 *IEEE Congress on Evolutionary Computation (CEC)*(pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/document/10612210)]
 
