@@ -20,7 +20,7 @@ author_profile: true
 ## Journal Papers
 1. Caiyun Wen，Miao Lu ，**Ying Bi**，Lang Xia，Jing Sun，Yun Shi ，Yanbing Wei ，Wenbin Wu. Customized crop feature construction using genetic programming for early-and in-season crop mapping[J]. *Computers and Electronics in Agriculture*, 2025, 231: 109949.[[http](https://www.sciencedirect.com/science/article/pii/S0168169925000559)]
 
-
+2. Rui Qi, Ya-Hui Jia, Wei-neng Chen, **Ying Bi**, Yi Mei . (2025). An evolutionary optimization-learning hybrid algorithm for energy resource management. *Swarm and Evolutionary Computation*, 92, 101831.[[http](https://www.sciencedirect.com/science/article/pii/S2210650224003699)]
 
 3. Jing Liang, Junting Yang, Caitong Yue, **Ying Bi**, Kunjie Yu, Boyang Qu.(2025). A Joint-Encoding Evolutionary Algorithm for Multimodal Multiobjective Feature Selection in Classification. *IEEE Transactions on Evolutionary Computation*.[[http](https://ieeexplore.ieee.org/abstract/document/10843352/)]
 
