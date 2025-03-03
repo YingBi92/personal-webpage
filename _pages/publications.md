@@ -24,8 +24,7 @@ author_profile: true
 
 3. Jing Liang, Junting Yang, Caitong Yue, **Ying Bi**, Kunjie Yu, Boyang Qu.(2025). A Joint-Encoding Evolutionary Algorithm for Multimodal Multiobjective Feature Selection in Classification. *IEEE Transactions on Evolutionary Computation*.[[http](https://ieeexplore.ieee.org/abstract/document/10843352/)]
 
-4. Jing Liang , Zhuo Hu ,**Ying Bi**, Han Cheng ，Wei-Feng Guo. Multimodal multiobjective optimization with structural network control principles to optimize personalized drug targets for drug discovery of individual patients[J].*Briefings in Bioinformatics*, 2025, 26(1): bbaf007.[[http](2025/1.https://academic.oup.com/bib/article - pdf/doi/10.1093/bib/bbaf007/61525230/bbaf007.pdf
-)]
+4. Jing Liang , Zhuo Hu ,**Ying Bi**, Han Cheng ，Wei-Feng Guo. Multimodal multiobjective optimization with structural network control principles to optimize personalized drug targets for drug discovery of individual patients[J].*Briefings in Bioinformatics*, 2025, 26(1): bbaf007.[[http](https://pubmed.ncbi.nlm.nih.gov/39835535/)]
 
 5. Dylon Zeng,Ivy Liu,**Ying Bi**,Ross Vennell,Dana Briscoe,Bing Xue &Mengjie Zhang. A new multi-object tracking pipeline based on computer vision techniques for mussel farms[J]. *Journal of the Royal Society of New Zealand*, 2025, 55(1): 62-81.[[http](https://www.tandfonline.com/doi/abs/10.1080/03036758.2023.2240466)]
 
