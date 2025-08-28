@@ -122,7 +122,7 @@ author_profile: true
 * Algorithms
 
 ## Talks/Tutorials
-
+* Tutorial on “Evolutionary Computation and Evolutionary Deep Learning for Image Analysis, Signal Processing and Pattern Recognition” in 2024, The Genetic and Evolutionary Computation Conference (GECCO), July 2025
 * Tutorial on “Evolutionary Computation and Evolutionary Deep Learning for Image Analysis, Signal Processing and Pattern Recognition” in 2024, The Genetic and Evolutionary Computation Conference (GECCO), July 2024
 * Tutorial on “Evolutionary Deep Learning for Image Classification: A Genetic Programming Approach” in IEEE Congress on Evolutionary Computation, July 2023
 * Invited Talk at IEEE SSCI 2022 Panel of Women in Computational Intelligence Achieving IEEEFellow Status - The Way Forward, Organised by IEEE CIS WCI and IEEE WIE, December 2022.
@@ -136,6 +136,7 @@ author_profile: true
 * Invited Talk on “Genetic Programming for Image Classification”, Chongqing University, October 2022
 * Invited Talk at IEEE SSCI 2022 Panel of Women in Computational Intelligence Achieving IEEE Fellow Status: The Way Forward, Organised by IEEE CIS WCI and IEEE WIE, December 2022.
 * Seminar on “Genetic Programming for Image Classification”, NICE seminar, June 2020 [[Link](https://www.bilibili.com/video/BV12B4y1F7gA/?from=search&seid=17750443203058420661&vd_source=878db9c18e8e6b4176628be336860563)]
+
 
 
 
