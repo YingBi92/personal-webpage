@@ -36,11 +36,11 @@ You can also find my publications or codes from [[Google scholar Profile](https:
 
 My main research lies in Artificial Intelligence, Machine Learning, Computer Vision, and Evolutionary Computation.
 
-- **Evolutionary computer vision and image processing**: Particularly image classification, image analysis, image segmentation, edge detection, and object detection.
-- **Evolutionary computation**: Particularly Genetic Programming, particle swarm optimization, bacterial foraging optimization, surrogate - assisted evolutionary algorithms, evolutionary multi - objective optimization.
-- **Evolutionary machine learning**: Particularly supervised learning, classification, ensemble learning, transfer learning, few - shot learning, and evolutionary deep learning.
+- **Computer vision and image processing**: Particularly image classification, image analysis, image segmentation, edge detection, and object detection.
+- **Evolutionary computation**: Particularly Genetic Programming, particle swarm optimization, bacterial foraging optimization, surrogate-assisted evolutionary algorithms, and evolutionary multi-objective optimization.
+- **Evolutionary machine learning**: Particularly genetic programming, supervised learning, classification, ensemble learning, transfer learning, few-shot learning, and evolutionary deep learning.
 - **Feature engineering and learning**: Particularly feature extraction, feature construction, and feature learning.
-- **Applications of evolutionary computation techniques**: Particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.
+- **Applications**: Particularly fault diagnosis, remote sensing image analysis, aquaculture data analysis, face recognition, emotion analysis, scene analysis, job shop scheduling, resource allocation, supply chain management, etc.
 
 
 ## Biography
