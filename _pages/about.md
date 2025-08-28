@@ -28,7 +28,6 @@ You can also find my publications or codes from [[Google scholar Profile](https:
 - Our paper "Evolutionary Neural Architecture Search for Remote Sensing Image Classification" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. 
 - I am upgraded to IEEE Senior Member, 2025.
 - I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Automation Science and Engineering, 2024.
-- I gave a one-hour talk as part of a specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing, and pattern recognition in GECCO2024.
 - I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Evolutionary Computation, 2024.
 - I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Artificial Intelligence, 2024. 
 - I am selected as an <span style="color: #FF0000"><b>Editorial Board Member</b></span> of Applied Soft Computing, 2024.
