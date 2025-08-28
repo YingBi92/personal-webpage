@@ -12,7 +12,7 @@ author_profile: true
 
 ## Survey Papers
 1. Jing Liang, Yahang Lou, Mingyuan Yu, **Ying Bi**, Kunjie Yu. A survey of surrogate-assisted evolutionary algorithms for expensive optimization[J]. *Journal of Membrane Computing*, 2024: 1-20.[[http](https://link.springer.com/article/10.1007/s41965-024-00165-w)]
-2. Jing Liang, Zhuo Hu, **Ying Bi**, Han Cheng, Kunjie Yu, Cai-Tong Yue, Xianfang Wang, Wei-Feng Guo. A Survey on Evolutionary Computation for Identifying Biomarkers of Complex Disease, *IEEE Transactions on Evolutionary Computation*, DOI: 10.1109/TEVC.2024.3414442, 2024[[http](https://ieeexplore.ieee.org/abstract/document/10558779)]
+2. Jing Liang, Zhuo Hu, **Ying Bi**, Han Cheng, Kunjie Yu, Cai-Tong Yue, Xianfang Wang, Wei-Feng Guo. A Survey on Evolutionary Computation for Identifying Biomarkers of Complex Disease, *IEEE Transactions on Evolutionary Computation*, DOI: 10.1109/TEVC.2024.3414442, 2024.[[http](https://ieeexplore.ieee.org/abstract/document/10558779)]
 3. **Ying Bi**, Bing Xue, Pablo Mesejo, Stefano Cagnoni, Mengjie Zhang. A Survey on Evolutionary Computation for Computer Vision and Image Analysis: Past, Present, and Future Trends. *IEEE Transactions on Evolutionary Computation*. vol. 27, no. 1, pp. 5-25, 2023.[[http](https://ieeexplore.ieee.org/abstract/document/9943992)]
 5. Harith Al-Sahaf, **Ying Bi**, Qi Chen, Andrew Lensen, Yi Mei, Yanan Sun, Binh Tran, Bing Xue, and Mengjie Zhang (Alphabetical Order). A Survey on Evolutionary Machine Learning. *Journal of the Royal Society of New Zealand*. vol. 49, no. 2. pp. 205 - 228, 2019. [[http](https://www.tandfonline.com/eprint/z97uTmKKWHUD9SxkDFIu/full?target=10.1080%2F03036758.2019.1609052)]
 6. Bo Peng, **Ying Bi**, Bing Xue, Mengjie Zhang, and Shuting Wan.A Survey on Fault Diagnosis of Rolling Bearings. *Algorithms*. vol. 10, no. 5, pp. 347, https:doi.org10.3390a15100347. (Corresponding Author)
@@ -127,6 +127,7 @@ author_profile: true
 53. Ben Niu, Ting Xie, Lijing Tan, **Ying Bi**, and Zhengxu Wang. Swarm Intelligence Algorithms for Yard Truck Scheduling and Storage Allocation Problems. *Neurocomputing*. vol. 188, 2016. pp. 284 - 293. [[http](https://www.sciencedirect.com/science/article/pii/S092523121501766X)]
 
 54. Yanmin Liu, **Ying Bi**, Changling Sui, Yuanfeng Luo, Zhuanzhou Zhang, and Rui Liu. Simulation Study of Swarm Intelligence Based on Life Evolution Behavior. *Discrete Dynamics in Nature and Society*. vol. 2015. Article ID 291298, 11 pages. [[http](https://www.hindawi.com/journals/ddns/2015/291298/abs/)]
+
 
 
 
