@@ -39,7 +39,7 @@ author_profile: true
 
 10. Qinyu Wang, **Ying Bi**, Bing Xue, Mengjie Zhang. A new genetic programming approach to fine-grained flower image classification[J]. *Complex & Intelligent Systems*, 2025, 11(9): 1-20. [[http](https://link.springer.com/article/10.1007/s40747-025-02004-6)]
 
-11. Caiyun Wen， Miao Lu，**Ying Bi**， Lang Xia， Jing Sun， Yun Shi， Yanbing Wei， Wenbin Wu. Customized crop feature construction using genetic programming for early-and in-season crop mapping[J]. *Computers and Electronics in Agriculture*, 2025, 231: 109949.[[http](https://www.sciencedirect.com/science/article/pii/S0168169925000559)] 
+11. Caiyun Wen, Miao Lu, **Ying Bi**, Lang Xia, Jing Sun, Yun Shi, Yanbing Wei, Wenbin Wu. Customized crop feature construction using genetic programming for early-and in-season crop mapping[J]. *Computers and Electronics in Agriculture*, 2025, 231: 109949.[[http](https://www.sciencedirect.com/science/article/pii/S0168169925000559)] 
 
 12. Rui Qi, Ya-Hui Jia, Wei-neng Chen, **Ying Bi**, Yi Mei . (2025). An evolutionary optimization-learning hybrid algorithm for energy resource management. *Swarm and Evolutionary Computation*, 92, 101831.[[http](https://www.sciencedirect.com/science/article/pii/S2210650224003699)]
 
@@ -67,15 +67,15 @@ author_profile: true
 
 24. Jing Liang, Zexuan Yang, **Ying Bi***, Boyang Qu, Mengnan Liu, Bing Xue, Mengjie Zhang.A Multi-Tree Genetic Programming-based Feature Construction Approach to Crop Classification Using Hyperspectral Images, _IEEE Transactions on Geoscience and Remote Sensing_, DOI: 10.1109/TGRS.2024.3415773, 2024. [[http](https://ieeexplore.ieee.org/abstract/document/10570344)]
 
-25. Jing Liang, Yaxin Chang, **Ying Bi***, Caitong Yue, Boyang Qu, Mengnan Liu.A New Road Extraction Method from Satellite Images Using Genetic Programming._Guidance Navigation and Control_, https:doi.org10.1142S2737480724500092, 2024. [[http](https://www.worldscientific.com/doi/abs/10.1142/S2737480724500092)]
+25. Jing Liang, Yaxin Chang, **Ying Bi***, Caitong Yue, Boyang Qu, Mengnan Liu. A New Road Extraction Method from Satellite Images Using Genetic Programming._Guidance Navigation and Control_, https:doi.org10.1142S2737480724500092, 2024. [[http](https://www.worldscientific.com/doi/abs/10.1142/S2737480724500092)]
 
-26. Qinglan Fan, **Ying Bi***, Bing Xue, Mengjie Zhang, Multi-Tree Genetic Programming for Learning Color and Multi-Scale Features in Image Classification, _IEEE Transactions on Evolutionary Computation_, DOI: 10.1109/TEVC.2024.3384021, 2024. [[http](https://ieeexplore.ieee.org/abstract/document/10488030)]
+26. Qinglan Fan, **Ying Bi***, Bing Xue, Mengjie Zhang. Multi-Tree Genetic Programming for Learning Color and Multi-Scale Features in Image Classification, _IEEE Transactions on Evolutionary Computation_, DOI: 10.1109/TEVC.2024.3384021, 2024. [[http](https://ieeexplore.ieee.org/abstract/document/10488030)]
 
-27. Qinyu Wang,**Ying Bi***, Bing Xue, Mengjie Zhang, Genetic Programming With Flexible Region Detection for Fine-Grained Image Classification, _IEEE Transactions on Evolutionary Computation_, DOI: 10.1109/TEVC.2024.3379257, 2024.[ [http](https://ieeexplore.ieee.org/abstract/document/10475668)]
+27. Qinyu Wang,**Ying Bi***, Bing Xue, Mengjie Zhang. Genetic Programming With Flexible Region Detection for Fine-Grained Image Classification, _IEEE Transactions on Evolutionary Computation_, DOI: 10.1109/TEVC.2024.3379257, 2024.[ [http](https://ieeexplore.ieee.org/abstract/document/10475668)]
 
 28. Qinglan Fan, **Ying Bi***, Bing Xue, and Mengjie Zhang. A Genetic Programming-based Method for Image Classification with Small Training Data. _Knowledge-Based Systems_. DOI: https:doi.org10.1016j.knosys.2023.111188, 2024. (Corresponding Author). [[http](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009383)]
 
-29. Jing Liang, Zong-Wei Li, Ze-Ning Sun, **Ying Bi**, Han Cheng, Tao Zeng, Wei-Feng Guo.Latent space search based multimodal optimization with personalized edge-network biomarker for multi-purpose early disease prediction. *Briefings in Bioinformatics*. DOI: https:doi.org10.1093bib/bbad364, 2023. [[http](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009383)]
+29. Jing Liang, Zong-Wei Li, Ze-Ning Sun, **Ying Bi**, Han Cheng, Tao Zeng, Wei-Feng Guo. Latent space search based multimodal optimization with personalized edge-network biomarker for multi-purpose early disease prediction. *Briefings in Bioinformatics*. DOI: https:doi.org10.1093bib/bbad364, 2023. [[http](https://www.sciencedirect.com/science/article/abs/pii/S0950705123009383)]
 
 30. **Ying Bi**, Jing Liang, Bing Xue, Mengjie Zhang. A Genetic Programming Approach with Building Block Evolving and Reusing to Image Classification. *IEEE Transactions on Evolutionary Computation*. early access, DOI: 10.1109/TEVC.2023.3284712ff2023. 2023. [[http](https://ieeexplore.ieee.org/document/10147342)]
 
@@ -126,6 +126,7 @@ author_profile: true
 53. Ben Niu, Ting Xie, Lijing Tan, **Ying Bi**, and Zhengxu Wang. Swarm Intelligence Algorithms for Yard Truck Scheduling and Storage Allocation Problems. *Neurocomputing*. vol. 188, 2016. pp. 284 - 293. [[http](https://www.sciencedirect.com/science/article/pii/S092523121501766X)]
 
 54. Yanmin Liu, **Ying Bi**, Changling Sui, Yuanfeng Luo, Zhuanzhou Zhang, and Rui Liu. Simulation Study of Swarm Intelligence Based on Life Evolution Behavior. *Discrete Dynamics in Nature and Society*. vol. 2015. Article ID 291298, 11 pages. [[http](https://www.hindawi.com/journals/ddns/2015/291298/abs/)]
+
 
 
 
