@@ -8,7 +8,7 @@ author_profile: true
 
 ## Authored Book
 1. **Ying Bi**, Bing Xue, and Mengjie Zhang. Genetic Programming for Image Classification: An Automated Approach to Feature Learning, Springer International Publishing 2021, DOI: https:doi.org10.1007978-3-030-65927-1.
-2. **Ying Bi**,Mengjie Zhang,Bing Xue,Bo Peng. Artificial Intelligence for Fault Detection and Diagnosis.[[http]([https://ieeexplore.ieee.org/abstract/document/10558779](https://www.mdpi.com/books/reprint/11351-artificial-intelligence-for-fault-detection-and-diagnosis))]
+2. **Ying Bi**, Mengjie Zhang, Bing Xue, Bo Peng. Artificial Intelligence for Fault Detection and Diagnosis.[[http]([https://ieeexplore.ieee.org/abstract/document/10558779](https://www.mdpi.com/books/reprint/11351-artificial-intelligence-for-fault-detection-and-diagnosis))]
 
 ## Survey Papers
 1. Jing Liang, Yahang Lou, Mingyuan Yu, **Ying Bi**, Kunjie Yu. A survey of surrogate-assisted evolutionary algorithms for expensive optimization[J]. *Journal of Membrane Computing*, 2024: 1-20.[[http](https://link.springer.com/article/10.1007/s41965-024-00165-w)]
@@ -127,6 +127,7 @@ author_profile: true
 53. Ben Niu, Ting Xie, Lijing Tan, **Ying Bi**, and Zhengxu Wang. Swarm Intelligence Algorithms for Yard Truck Scheduling and Storage Allocation Problems. *Neurocomputing*. vol. 188, 2016. pp. 284 - 293. [[http](https://www.sciencedirect.com/science/article/pii/S092523121501766X)]
 
 54. Yanmin Liu, **Ying Bi**, Changling Sui, Yuanfeng Luo, Zhuanzhou Zhang, and Rui Liu. Simulation Study of Swarm Intelligence Based on Life Evolution Behavior. *Discrete Dynamics in Nature and Society*. vol. 2015. Article ID 291298, 11 pages. [[http](https://www.hindawi.com/journals/ddns/2015/291298/abs/)]
+
 
 
 
