@@ -33,6 +33,7 @@ author_profile: true
     
 ## Associate Editor or Editorial Member
 
+* IEEE Transactions on Automation Science and Engineering, 2024-
 * IEEE Transactions on Evolutionary Computation, 2024-
 * IEEE Transactions on Artificial Intelligence, 2024-
 * Applied Soft Computing, 2024-
@@ -40,6 +41,8 @@ author_profile: true
 * Complex System Modelling and Simulation (English), 2024-
 * Intelligent Marine Technology and Systems, 2023-
 * New Zealand Journal of Marine and Freshwater Research, 2024-
+* Journal of the Royal Society of New Zealand, 2024-
+* Frontier in Artificial Intelligence, 2024-
 
 ## Organised Special Issues
 
@@ -133,6 +136,7 @@ author_profile: true
 * Invited Talk on “Genetic Programming for Image Classification”, Chongqing University, October 2022
 * Invited Talk at IEEE SSCI 2022 Panel of Women in Computational Intelligence Achieving IEEE Fellow Status: The Way Forward, Organised by IEEE CIS WCI and IEEE WIE, December 2022.
 * Seminar on “Genetic Programming for Image Classification”, NICE seminar, June 2020 [[Link](https://www.bilibili.com/video/BV12B4y1F7gA/?from=search&seid=17750443203058420661&vd_source=878db9c18e8e6b4176628be336860563)]
+
 
 
 
