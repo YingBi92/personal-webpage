@@ -20,12 +20,15 @@ You can also find my publications or codes from [[Google scholar Profile](https:
 
 
 ## NEWS
-
-
-
+- I am invited as panel chair for [WCCI/CEC 2026](https://attend.ieee.org/wcci-2026/).
+- I am invited as LBA chair for GECCO 2027.
+- I am invited as program chair for ([IVCNZ 2025]([https://ecs.wgtn.ac.nz/Events/IVCNZ2025/WebHome])).
+- Our paper "Change detection in remote sensing images based on multi-tree genetic programming" has been accepted by Applied Soft Computing. 
+- Our paper "Co-Evolutionary Dual-Tree Genetic Programming for Fine-Grained Flower Image Classification" has been accepted by IEEE Transactions on Evolutionary Computation. 
+- Our paper "Evolutionary Neural Architecture Search for Remote Sensing Image Classification" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. 
 - I am upgraded to IEEE Senior Member, 2025.
 - I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Automation Science and Engineering, 2024.
-- I gave a one-hour talk as part of a specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition in GECCO2024.
+- I gave a one-hour talk as part of a specialized tutorial on Evolutionary computation and evolutionary deep learning for image analysis, signal processing, and pattern recognition in GECCO2024.
 - I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Evolutionary Computation, 2024.
 - I am selected as an <span style="color: #FF0000"><b>Associate Editor</b></span> of IEEE Transactions on Artificial Intelligence, 2024. 
 - I am selected as an <span style="color: #FF0000"><b>Editorial Board Member</b></span> of Applied Soft Computing, 2024.
