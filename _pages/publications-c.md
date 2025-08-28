@@ -6,17 +6,17 @@ author_profile: true
 ---
 *indicating the corresponding author
 
-1. Caitong Yue, Liming Liu, Jing Liang, Gongping Li,**Ying Bi**, Mingyuan Yu . (2024, June). Multimodal Multi-Objective Flexible Job Shop Scheduling: A Preliminary Study. In 2024 *IEEE Congress on Evolutionary Computation (CEC)* (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/abstract/document/10612067)]
+1. Caitong Yue, Liming Liu, Jing Liang, Gongping Li,**Ying Bi**, Mingyuan Yu. (2024, June). Multimodal Multi-Objective Flexible Job Shop Scheduling: A Preliminary Study. In 2024 *IEEE Congress on Evolutionary Computation (CEC)* (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/abstract/document/10612067)]
 
-2. iayin Chen, Ya-Hui Jia, **Ying Bi**, Wei-neng Chen. Generate a Single Heuristic for Multiple Dynamic Flexible Job Shop Scheduling Tasks by Genetic Programming[C].2024 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2024: 1-8.[[http](https://ieeexplore.ieee.org/abstract/document/10611762)]
+2. Jiayin Chen, Ya-Hui Jia, **Ying Bi**, Wei-neng Chen. Generate a Single Heuristic for Multiple Dynamic Flexible Job Shop Scheduling Tasks by Genetic Programming[C].2024 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2024: 1-8.[[http](https://ieeexplore.ieee.org/abstract/document/10611762)]
 
-3. Jing Liang,Zexuan Yang,Tuo Zhang,**Ying Bi**. (2024, June). A Two-Stage Approach Using Genetic Algorithm and Genetic Programming for Remote Sensing Crop Classification. In 2024 *IEEE Congress on Evolutionary Computation (CEC)*(pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/document/10612210)]
+3. Jing Liang,Zexuan Yang,Tuo Zhang,**Ying Bi**. (2024, June). A Two-Stage Approach Using Genetic Algorithm and Genetic Programming for Remote Sensing Crop Classification. In 2024 *IEEE Congress on Evolutionary Computation (CEC)*(pp 1-8). IEEE.[[http](https://ieeexplore.ieee.org/document/10612210)]
 
-4. Qinglan,**Ying Bi**,Bing Xue,Jane Symonds,Lauren M. Fletcher,Mengjie Zhang. Automatic Quantification of King Salmon Farm Net Occlusion Via Biofouling Detection[C]. 2024 39th *International Conference on Image and Vision Computing New Zealand (IVCNZ)*. IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794201)]
+4. Qinglan,**Ying Bi**, Bing Xue, Jane Symonds, Lauren M. Fletcher, Mengjie Zhang. Automatic Quantification of King Salmon Farm Net Occlusion Via Biofouling Detection[C]. 2024 39th *International Conference on Image and Vision Computing New Zealand (IVCNZ)*. IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794201)]
 
 5. Dylon Zeng,**Ying Bi**,Mengjie Zhang. Genetic Programming-Based Multi-Object Matching for Mussel Floats in Mussel Farm Images[C] 2024 39th *International Conference on Image and Vision Computing New Zealand (IVCNZ)*. IEEE, 2024: 1-6.[[http](https://ieeexplore.ieee.org/abstract/document/10794448)]
   
-6. Wei-Feng Guo,Yang Li,Chuanqiang Wang,Kunjie Yu,Caitong Yue,**Ying Bi**. Evolutionary Multitasking Optimization Based Multi-Objective Network Control Principles for Identifying Personalized Drug Targets with Cancer. In 2024 *International Conference on New Trends in Computational Intelligence (NTCI)*(pp. 135-139). IEEE.[[http](https://ieeexplore.ieee.org/document/10776292)]
+6. Wei-Feng Guo,Yang Li,Chuanqiang Wang,Kunjie Yu,Caitong Yue,**Ying Bi**. Evolutionary Multitasking Optimization Based Multi-Objective Network Control Principles for Identifying Personalized Drug Targets with Cancer. In 2024 *International Conference on New Trends in Computational Intelligence (NTCI)*(pp 135-139). IEEE.[[http](https://ieeexplore.ieee.org/document/10776292)]
    
 7. Tuo Zhang, **Ying Bi**, Jing Liang ,Mengjie Zhang . Decomposition-based Multi-objective Genetic Programming for Feature Learning in Image Classification[C].Proceedings of the *Genetic and Evolutionary Computation Conference Companion*. 2024: 555-558.[[http](https://dl.acm.org/doi/10.1145/3638530.3654306)]
    
@@ -54,9 +54,9 @@ author_profile: true
 
 24. **Ying Bi**, Bing Xue, and Mengjie Zhang. An Evolutionary Deep Learning Approach Using Genetic Programming with Convolution Operators for Image Classification. Proceedings of *IEEE Congress on Evolutionary Computation (CEC)*. IEEE Press. Wellington, New Zealand. 10-13 June, 2019. pp. 3197-3204. [[http](https://ieeexplore.ieee.org/abstract/document/8790151An)][[pdf](https://yingbi92.github.io/homepage/2020/COGP.pdf)][[Source Code](https://github.com/YingBi92/BookCode/tree/main/COGP)]
 
-25. **Ying Bi**, Mengjie Zhang, and Bing Xue. Genetic Programming for Automatic Global and Local Feature Extraction to Image Classification. Proceedings of *IEEE Congress on Evolutionary Computation (CEC)*. IEEE Press. Rio de Janeiro, Brazil. 8-13 July 2018. pp. 1-8. (Nominated as Best Student Paper Award) [[http](https://ieeexplore.ieee.org/abstract/document/8477911)][[pdf](https://yingbi92.github.io/homepage/2020/GP-GLF.pdf)]
+25. **Ying Bi**, Mengjie Zhang, and Bing Xue. Genetic Programming for Automatic Global and Local Feature Extraction to Image Classification. Proceedings of *IEEE Congress on Evolutionary Computation (CEC)*. IEEE Press. Rio de Janeiro, Brazil. 8-13 July 2018. pp. 1-8. (Nominated for Best Student Paper Award) [[http](https://ieeexplore.ieee.org/abstract/document/8477911)][[pdf](https://yingbi92.github.io/homepage/2020/GP-GLF.pdf)]
 
-26. **Ying Bi**, Mengjie Zhang and Bing Xue. An Automatic Region Detection and Processing Approach in Genetic Programming for Binary Image Classification. Proceedings of the 32th *International Conference on Image and Vision Computing New Zealand (IVCNZ 2017)*. IEEE Press. Christchurch, New Zealand. 4 - 6 December 2017. pp. 1-6. [[http](https://ieeexplore.ieee.org/abstract/document/8402469)] [[pdf](https://yingbi92.github.io/homepage/2020/GP-RDP.pdf)]
+26. **Ying Bi**, Mengjie Zhang and Bing Xue. An Automatic Region Detection and Processing Approach in Genetic Programming for Binary Image Classification. Proceedings of the 32nd *International Conference on Image and Vision Computing New Zealand (IVCNZ 2017)*. IEEE Press. Christchurch, New Zealand. 4 - 6 December 2017. pp. 1-6. [[http](https://ieeexplore.ieee.org/abstract/document/8402469)] [[pdf](https://yingbi92.github.io/homepage/2020/GP-RDP.pdf)]
 
 27. Yi Wang, **Ying Bi**, Ting Xie, and Jing Liu. Evaluation of the Comprehensive Strength of the Listed Companies in China's Cultural Media Industry. Proceedings of 12th *International Conference on Service Systems and Service Management (ICSSSM)*. IEEE Press. Guangzhou, China. 22-24 June 2015. pp. 1-5. [[http](https://ieeexplore.ieee.org/abstract/document/7170306)]
 
@@ -66,4 +66,4 @@ author_profile: true
 
 30. Ben Niu and **Ying Bi**. Binary Bacterial Foraging Optimization for 0/1 Knapsack Problem. Proceedings of *IEEE Congress on Evolutionary Computation (CEC)*. IEEE Press. Beijing, China. 6-11 July 2014. pp. 647-652. [[http](https://ieeexplore.ieee.org/abstract/document/6900513)]
 
-31. Hanyang Luo, Jingjing Wang, and **Ying Bi**. Empirical Research on Consumers Intention to Purchase Online. Proceedings of 11th *International Conference on Service Systems and Service Management (ICSSSM)*. IEEE Press. Beijing, China. 25-27 June 2014. pp. 1-5. [[http](https://ieeexplore.ieee.org/abstract/document/6943359)]
+31. Hanyang Luo, Jingjing Wang, and **Ying Bi**. Empirical Research on Consumers' Intention to Purchase Online. Proceedings of 11th *International Conference on Service Systems and Service Management (ICSSSM)*. IEEE Press. Beijing, China. 25-27 June 2014. pp. 1-5. [[http](https://ieeexplore.ieee.org/abstract/document/6943359)]
