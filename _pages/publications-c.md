@@ -6,15 +6,15 @@ author_profile: true
 ---
 *indicating the corresponding author
 
-1. Ke Chen, Tianqing Wu, **Ying Bi**, Jing Liang, Kunjie Yu. Dynamic Threshold Selection in Genetic Programming for Imbalanced Fault Diagnosis. 2025 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2025: 1-8.[[http](https://ieeexplore.ieee.org/document/11043109)]
+1. Ke Chen, Tianqing Wu, **Ying Bi**, Jing Liang, Kunjie Yu. Dynamic Threshold Selection in Genetic Programming for Imbalanced Fault Diagnosis. 2025 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2025: 1-8.[[http](https://ieeexplore.ieee.org/document/11043109)]
    
-2. Kunjie Yu, Jintao Lian, **Ying Bi**, Jing Liang. Automatic Feature Learning via Genetic Programming with Flexible Filtering for Skin Cancer Image Classification. 2025 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2025: 1-8.[[http](https://ieeexplore.ieee.org/document/11042919)]
+2. Kunjie Yu, Jintao Lian, **Ying Bi**, Jing Liang. Automatic Feature Learning via Genetic Programming with Flexible Filtering for Skin Cancer Image Classification. 2025 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2025: 1-8.[[http](https://ieeexplore.ieee.org/document/11042919)]
 
-3. Jigang Fan, **Ying Bi**, Bing Xue, Mengjie Zhang. Flexible Region Detection-based Genetic Programming for Fish Classification With Low-Quality Images. 2025 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2025.[[http](https://ieeexplore.ieee.org/document/11043012)]
+3. Jigang Fan, **Ying Bi**, Bing Xue, Mengjie Zhang. Flexible Region Detection-based Genetic Programming for Fish Classification With Low-Quality Images. 2025 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2025.[[http](https://ieeexplore.ieee.org/document/11043012)]
    
-4. Jing Liang, Zexuan Yang, **Ying Bi**. A Two-Stage Approach Combining Feature Selection and Construction for Hyperspectral Crop Classification. 2025 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2025.[[http](https://ieeexplore.ieee.org/document/11042960)]
+4. Jing Liang, Zexuan Yang, **Ying Bi**. A Two-Stage Approach Combining Feature Selection and Construction for Hyperspectral Crop Classification. 2025 *IEEE Congress on Evolutionary Computation (CEC)*. IEEE, 2025.[[http](https://ieeexplore.ieee.org/document/11042960)]
    
-5. Stefano Cagnoni, **Ying Bi**, Yanan Sun. Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition. Proceedings of the 2025 Genetic and Evolutionary Computation Conference Companion. 2025.[[http](https://dl.acm.org/doi/10.1145/3638530.3648410)]
+5. Stefano Cagnoni, **Ying Bi**, Yanan Sun. Evolutionary computation and evolutionary deep learning for image analysis, signal processing and pattern recognition. Proceedings of the 2025 *Genetic and Evolutionary Computation Conference Companion*. 2025.[[http](https://dl.acm.org/doi/10.1145/3638530.3648410)]
 
 6. Caitong Yue, Liming Liu, Jing Liang, Gongping Li,**Ying Bi**, Mingyuan Yu. (2024, June). Multimodal Multi-Objective Flexible Job Shop Scheduling: A Preliminary Study. In 2024 *IEEE Congress on Evolutionary Computation (CEC)* (pp. 1-8). IEEE.[[http](https://ieeexplore.ieee.org/abstract/document/10612067)]
 
