@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ying Bi / Professor / Zhengzhou University"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ying Bi"
 description              : &description "personal description"
@@ -309,4 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
