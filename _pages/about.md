@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Distinguished Professor, PhD Supervisor
+Professor, PhD Supervisor
 
 School of Electrical and Information Engineering, ([EIE]([http://www5.zzu.edu.cn/eie/])) 
 
