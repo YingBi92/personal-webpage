@@ -14,6 +14,7 @@ Xianrui Zhao: Evolutionary Neural Architecture Search
 ## 2025
 ### Graduate Students
 Jianjun Xu: Deep Learning
+
 Kongyuan Wang: Multimodal Learning
 Zhe Wang: Deep learning
 Bin Wang: Object Detection
@@ -56,5 +57,6 @@ Qinyu Wang (PhD): Genetic Programming for Image Classification
 Dylon (Zhiheng) Zeng (PhD): Computer Vision for Mussel Farming
 Qinglan Fan (PhD): Genetic Programming for Image Classification (2019-2023)
 Bo Peng (Visiting PhD student): Genetic Programming for Machine Fault Classification and Machine Life Prediction (2019-2020)
+
 
 
