@@ -67,7 +67,8 @@ author_profile: true
 
 ## Program Committee Member or Peer Reviewer for Conferences
 
-* Internationl Conference on Machine Learning (ICML) 2024
+* International Conference on Learning Representations (ICLR) 2025
+* International Conference on Machine Learning (ICML) 2024, 2025
 * International Joint Conference on Artificial Intelligence (IJCAI) 2020, 2021, 2022, 2023, 2024
 * International Joint Conference on Artificial Intelligence (IJCAI) Special track on AI for Good, 2022
 * Genetic and Evolutionary Computation Conference (GECCO) 2019, 2020, 2021, 2022, 2023, 2024
@@ -82,7 +83,7 @@ author_profile: true
 * The 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2018
 * Australasian Joint Conference on Artificial Intelligence (AI), 2018, 2021, 2022, 2023, 2024
 * International Conference on Intelligent Data Engineering and Automated Learning (IDEAL), 2020, 2021
-* International Conference Series on Evolutionary Multi- Criterion Optimization (EMO), 2021
+* International Conference Series on Evolutionary Multi-Criterion Optimization (EMO), 2021
 * International Conference on Advanced Computational Intelligence (ICACI), 2018
 * International Conference on Data Mining and Big Data (DMBD), 2018
 * Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2018
@@ -119,18 +120,19 @@ author_profile: true
 
 ## Talks/Tutorials
 
-* Tutorial on “Evolutionary Computation and Evolutionary Deep Learning for Image Analysis, Signal Processing and Pattern Recognition” in 2024 The Genetic and Evolutionary Computation Conference (GECCO), July 2024
+* Tutorial on “Evolutionary Computation and Evolutionary Deep Learning for Image Analysis, Signal Processing and Pattern Recognition” in 2024, The Genetic and Evolutionary Computation Conference (GECCO), July 2024
 * Tutorial on “Evolutionary Deep Learning for Image Classification: A Genetic Programming Approach” in IEEE Congress on Evolutionary Computation, July 2023
 * Invited Talk at IEEE SSCI 2022 Panel of Women in Computational Intelligence Achieving IEEEFellow Status - The Way Forward, Organised by IEEE CIS WCI and IEEE WIE, December 2022.
-* Invited Talk at the “Computationa lIntelligence Techniques for Solving Equity, Diversity, and Inclusivity Problems” workshop in IEEE SSCI 2023
+* Invited Talk at the “Computational Intelligence Techniques for Solving Equity, Diversity, and Inclusivity Problems” workshop in IEEE SSCI 2023
 * Invited Talk on “Genetic Programming for Image Classification” in the workshop on Machine Learning for Data-Driven Optimization in AJCAI, December 2023.
-* Seminar on “Genetic Programming for Image Classification” in 2023 IEEE CIS Workshop on Computational Intelligence at Zhengzhou, July 2023
+* Seminar on “Genetic Programming for Image Classification” in the 2023 IEEE CIS Workshop on Computational Intelligence at Zhengzhou, July 2023
 * Tutorial on “Evolutionary Deep Learning for Image Classification: A Genetic Programming Approach” in International Conference on Data Mining and Database (DMDB 2023), December 2023
 * Invited presentation on “A Survey on Evolutionary Computation for Computer Vision and Image Analysis: Past, Present, and Future Trends”, IEEE Congress on Evolutionary Computation, July 2023
 * Invited Talk on “Genetic Programming for Image Classification”, Jimei University, February 2023
 * Invited Talk on “Evolutionary Machine Learning”, Zhengzhou University, November, December 2022
 * Invited Talk on “Genetic Programming for Image Classification”, Chongqing University, October 2022
-* Invited Talk at IEEE SSCI 2022 Panel of Women in Computational Intelligence Achieving IEEE Fellow Status The Way Forward, Organised by IEEE CIS WCI and IEEE WIE, December 2022.
+* Invited Talk at IEEE SSCI 2022 Panel of Women in Computational Intelligence Achieving IEEE Fellow Status: The Way Forward, Organised by IEEE CIS WCI and IEEE WIE, December 2022.
 * Seminar on “Genetic Programming for Image Classification”, NICE seminar, June 2020 [[Link](https://www.bilibili.com/video/BV12B4y1F7gA/?from=search&seid=17750443203058420661&vd_source=878db9c18e8e6b4176628be336860563)]
+
 
 
