@@ -11,12 +11,14 @@ author_profile: true
 * Vice-chair: IEEE CIS Zhengzhou Chapter, 2024
 * Vice-chair: IEEE CIS Task Force on Evolutionary Computer Vision and Image Processing, 2023-2025
 * Chair: the IEEE Women in Computational Intelligence Subcommittee, 2024-2025
+* Senior Member: IEEE
 * Member of IEEE CIS Task Force on Evolutionary Computation for Feature Selection and Construction
 * Member: CIS/ACM/SigEvo/CAAI/CCF/CAA/CSIG/CSF
 * Member: New Zealand Artificial Intelligence Researchers Association
 * Executive Member of the Collaborative Computing Committee of CCF
-* ChairManagerFounder: Wechat official account “Evolutionary Computation and Artificial Intelligence” with >4000 followers
-* Workshop Chair: 2024 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)
+* Chair/Manager/Founder: WeChat official account “Evolutionary Computation and Artificial Intelligence” with>4000 followers
+*  Panel Chair: 2026 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)
+*  Workshop Chair: 2024 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)
 * Organising Committee Member: 2023 IEEE CIS Workshop on Computational Intelligence at Zhengzhou
 * Student Workshop Chair: 2024 The Genetic and Evolutionary Computation Conference (GECCO)
 * Student Affairs Chair: 2024 The Genetic and Evolutionary Computation Conference (GECCO)
@@ -130,4 +132,5 @@ author_profile: true
 * Invited Talk on “Genetic Programming for Image Classification”, Chongqing University, October 2022
 * Invited Talk at IEEE SSCI 2022 Panel of Women in Computational Intelligence Achieving IEEE Fellow Status The Way Forward, Organised by IEEE CIS WCI and IEEE WIE, December 2022.
 * Seminar on “Genetic Programming for Image Classification”, NICE seminar, June 2020 [[Link](https://www.bilibili.com/video/BV12B4y1F7gA/?from=search&seid=17750443203058420661&vd_source=878db9c18e8e6b4176628be336860563)]
+
 
