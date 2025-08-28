@@ -22,7 +22,7 @@ You can also find my publications or codes from [[Google scholar Profile](https:
 ## NEWS
 - I am invited as panel chair for [WCCI/CEC](https://attend.ieee.org/wcci-2026/) 2026.
 - I am invited as LBA chair for GECCO 2027.
-- I am invited as program chair for [IVCNZ]([https://ecs.wgtn.ac.nz/Events/IVCNZ2025/WebHome]) 2025.
+- I am invited as program chair for [IVCNZ]([https://ecs.wgtn.ac.nz/Events/IVCNZ2025/WebHome/]) 2025.
 - Our paper "Change detection in remote sensing images based on multi-tree genetic programming" has been accepted by Applied Soft Computing. 
 - Our paper "Co-Evolutionary Dual-Tree Genetic Programming for Fine-Grained Flower Image Classification" has been accepted by IEEE Transactions on Evolutionary Computation. 
 - Our paper "Evolutionary Neural Architecture Search for Remote Sensing Image Classification" has been accepted by IEEE Transactions on Neural Networks and Learning Systems. 
