@@ -10,17 +10,18 @@ author_profile: true
 1. **Ying Bi**, Bing Xue, and Mengjie Zhang. Genetic Programming for Image Classification: An Automated Approach to Feature Learning, Springer International Publishing 2021, DOI: https:doi.org10.1007978-3-030-65927-1.
 
 ## Survey Papers
-1. **Ying Bi**, Bing Xue, Pablo Mesejo, Stefano Cagnoni, Mengjie Zhang. A Survey on Evolutionary Computation for Computer Vision and Image Analysis: Past, Present, and Future Trends. *IEEE Transactions on Evolutionary Computation*. vol. 27, no. 1, pp. 5-25, 2023.[[http](https://ieeexplore.ieee.org/abstract/document/9943992)]
+1. Jing Liang, Yahang Lou, Mingyuan Yu, **Ying Bi**, Kunjie Yu. A survey of surrogate-assisted evolutionary algorithms for expensive optimization[J]. *Journal of Membrane Computing*, 2024: 1-20.[[http](https://link.springer.com/article/10.1007/s41965-024-00165-w)]
 2. Jing Liang, Zhuo Hu, **Ying Bi**, Han Cheng, Kunjie Yu, Cai-Tong Yue, Xianfang Wang, Wei-Feng Guo. A Survey on Evolutionary Computation for Identifying Biomarkers of Complex Disease, *IEEE Transactions on Evolutionary Computation*, DOI: 10.1109/TEVC.2024.3414442, 2024[[http](https://ieeexplore.ieee.org/abstract/document/10558779)]
-3. Harith Al-Sahaf, **Ying Bi**, Qi Chen, Andrew Lensen, Yi Mei, Yanan Sun, Binh Tran, Bing Xue, and Mengjie Zhang (Alphabetical Order). A Survey on Evolutionary Machine Learning. *Journal of the Royal Society of New Zealand*. vol. 49, no. 2. pp. 205 - 228, 2019. [[http](https://www.tandfonline.com/eprint/z97uTmKKWHUD9SxkDFIu/full?target=10.1080%2F03036758.2019.1609052)]
-4. Bo Peng, **Ying Bi**, Bing Xue, Mengjie Zhang, and Shuting Wan.A Survey on Fault Diagnosis of Rolling Bearings. *Algorithms*. vol. 10, no. 5, pp. 347, https:doi.org10.3390a15100347. (Corresponding Author)
-5. **Ying Bi**, Bing Xue, and Mengjie Zhang. A Survey on Genetic Programming to Image Analysis. *Journal of Zhengzhou University (Engineering Science)*. Vol. 39, No. 06. 2018. pp. 3 - 13. (In Chinese).[[http](http://gxb.zzu.edu.cn/oa/darticle.aspx?type=view&id=201802014)][[pdf](https://yingbi92.github.io/homepage/2020/%E9%81%97%E4%BC%A0%E8%A7%84%E5%88%92%E5%9C%A8%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%E7%BB%BC%E8%BF%B0%E2%80%94v4.pdf)]
-6. Jing Liang, Yahang Lou, Mingyuan Yu, **Ying Bi** & Kunjie Yu. A survey of surrogate-assisted evolutionary algorithms for expensive optimization. *Journal of Membrane Computing*, 1 - 20.[[http](https://link.springer.com/article/10.1007/s41965-024-00165-w)]
+3. **Ying Bi**, Bing Xue, Pablo Mesejo, Stefano Cagnoni, Mengjie Zhang. A Survey on Evolutionary Computation for Computer Vision and Image Analysis: Past, Present, and Future Trends. *IEEE Transactions on Evolutionary Computation*. vol. 27, no. 1, pp. 5-25, 2023.[[http](https://ieeexplore.ieee.org/abstract/document/9943992)]
+5. Harith Al-Sahaf, **Ying Bi**, Qi Chen, Andrew Lensen, Yi Mei, Yanan Sun, Binh Tran, Bing Xue, and Mengjie Zhang (Alphabetical Order). A Survey on Evolutionary Machine Learning. *Journal of the Royal Society of New Zealand*. vol. 49, no. 2. pp. 205 - 228, 2019. [[http](https://www.tandfonline.com/eprint/z97uTmKKWHUD9SxkDFIu/full?target=10.1080%2F03036758.2019.1609052)]
+6. Bo Peng, **Ying Bi**, Bing Xue, Mengjie Zhang, and Shuting Wan.A Survey on Fault Diagnosis of Rolling Bearings. *Algorithms*. vol. 10, no. 5, pp. 347, https:doi.org10.3390a15100347. (Corresponding Author)
+7. **Ying Bi**, Bing Xue, and Mengjie Zhang. A Survey on Genetic Programming to Image Analysis. *Journal of Zhengzhou University (Engineering Science)*. Vol. 39, No. 06. 2018. pp. 3 - 13. (In Chinese).[[http](http://gxb.zzu.edu.cn/oa/darticle.aspx?type=view&id=201802014)][[pdf](https://yingbi92.github.io/homepage/2020/%E9%81%97%E4%BC%A0%E8%A7%84%E5%88%92%E5%9C%A8%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%E7%BB%BC%E8%BF%B0%E2%80%94v4.pdf)]
+8. Jing Liang, Yahang Lou, Mingyuan Yu, **Ying Bi** & Kunjie Yu. A survey of surrogate-assisted evolutionary algorithms for expensive optimization. *Journal of Membrane Computing*, 1 - 20.[[http](https://link.springer.com/article/10.1007/s41965-024-00165-w)]
 
 ## Journal Papers
 1. Caitong Yue, Jiankang Song, Jing Liang, Mengnan Liu, Kunjie Yu, Hongyu Lin, **Ying Bi**. A multimodal multiobjective evolutionary algorithm based on neighborhood and enhanced special crowding distance. *Knowledge-Based Systems* 315 (2025): 113340.[[http](https://www.sciencedirect.com/science/article/abs/pii/S0950705125003879)] 
 
-2. Ke Chen, Mingyang Dao, **Ying Bi** , Jing Liang, Zhenlong Wu, Peng Wang. A new multi-tree Genetic Programming approach to feature construction in high-dimensional classification. *Knowledge-Based Systems* (2025): 113643.[[http](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006896)]  
+2. Ke Chen, Mingyang Dao, **Ying Bi**, Jing Liang, Zhenlong Wu, Peng Wang. A new multi-tree Genetic Programming approach to feature construction in high-dimensional classification. *Knowledge-Based Systems* (2025): 113643.[[http](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006896)]  
 
 3. Qinglan Fan, Yunfeng Zhang, Xunxiang Yao, **Ying Bi**, Bing Xue, Mengjie Zhang. ES-GP: An Ensemble Surrogate-Assisted Genetic Programming Approach to Image Classification. *IEEE Transactions on Evolutionary Computation* (2025).[[http](https://ieeexplore.ieee.org/document/11004052)]
 
@@ -125,6 +126,7 @@ author_profile: true
 53. Ben Niu, Ting Xie, Lijing Tan, **Ying Bi**, and Zhengxu Wang. Swarm Intelligence Algorithms for Yard Truck Scheduling and Storage Allocation Problems. *Neurocomputing*. vol. 188, 2016. pp. 284 - 293. [[http](https://www.sciencedirect.com/science/article/pii/S092523121501766X)]
 
 54. Yanmin Liu, **Ying Bi**, Changling Sui, Yuanfeng Luo, Zhuanzhou Zhang, and Rui Liu. Simulation Study of Swarm Intelligence Based on Life Evolution Behavior. *Discrete Dynamics in Nature and Society*. vol. 2015. Article ID 291298, 11 pages. [[http](https://www.hindawi.com/journals/ddns/2015/291298/abs/)]
+
 
 
 
