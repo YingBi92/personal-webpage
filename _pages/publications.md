@@ -17,10 +17,10 @@ author_profile: true
 5. **Ying Bi**, Bing Xue, and Mengjie Zhang. A Survey on Genetic Programming to Image Analysis. *Journal of Zhengzhou University (Engineering Science)*. Vol. 39, No. 06. 2018. pp. 3 - 13. (In Chinese).[[http](http://gxb.zzu.edu.cn/oa/darticle.aspx?type=view&id=201802014)][[pdf](https://yingbi92.github.io/homepage/2020/%E9%81%97%E4%BC%A0%E8%A7%84%E5%88%92%E5%9C%A8%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%E7%BB%BC%E8%BF%B0%E2%80%94v4.pdf)]
 6. Jing Liang, Yahang Lou, Mingyuan Yu, **Ying Bi** & Kunjie Yu. A survey of surrogate-assisted evolutionary algorithms for expensive optimization. *Journal of Membrane Computing*, 1 - 20.[[http](https://link.springer.com/article/10.1007/s41965-024-00165-w)]
 
-## Journal Papers[[http]()] 
+## Journal Papers
 1. Caitong Yue, Jiankang Song, Jing Liang, Mengnan Liu, Kunjie Yu, Hongyu Lin, **Ying Bi**. A multimodal multiobjective evolutionary algorithm based on neighborhood and enhanced special crowding distance. *Knowledge-Based Systems* 315 (2025): 113340.[[http](https://www.sciencedirect.com/science/article/abs/pii/S0950705125003879)] 
 
-2.Ke Chen, Mingyang Dao, **Ying Bi** , Jing Liang, Zhenlong Wu, Peng Wang. A new multi-tree Genetic Programming approach to feature construction in high-dimensional classification. *Knowledge-Based Systems* (2025): 113643.[[http](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006896)]  
+2. Ke Chen, Mingyang Dao, **Ying Bi** , Jing Liang, Zhenlong Wu, Peng Wang. A new multi-tree Genetic Programming approach to feature construction in high-dimensional classification. *Knowledge-Based Systems* (2025): 113643.[[http](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006896)]  
 
 3. Qinglan Fan, Yunfeng Zhang, Xunxiang Yao, **Ying Bi**, Bing Xue, Mengjie Zhang. ES-GP: An Ensemble Surrogate-Assisted Genetic Programming Approach to Image Classification. *IEEE Transactions on Evolutionary Computation* (2025).[[http](https://ieeexplore.ieee.org/document/11004052)]
 
@@ -123,5 +123,6 @@ author_profile: true
 52. Ben Niu, Ting Xie, Lijing Tan, **Ying Bi**, and Zhengxu Wang. Swarm Intelligence Algorithms for Yard Truck Scheduling and Storage Allocation Problems. *Neurocomputing*. vol. 188, 2016. pp. 284 - 293. [[http](https://www.sciencedirect.com/science/article/pii/S092523121501766X)]
 
 53. Yanmin Liu, **Ying Bi**, Changling Sui, Yuanfeng Luo, Zhuanzhou Zhang, and Rui Liu. Simulation Study of Swarm Intelligence Based on Life Evolution Behavior. *Discrete Dynamics in Nature and Society*. vol. 2015. Article ID 291298, 11 pages. [[http](https://www.hindawi.com/journals/ddns/2015/291298/abs/)]
+
 
 
